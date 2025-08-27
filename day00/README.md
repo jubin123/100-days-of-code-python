@@ -7,4 +7,4 @@
 - point 5
 
 ## Project title
-![day00](https://user-images.githubusercontent.com/98851253/154177081-2c53df2d-777b-4deb-8e38-5742ecd7282f.gif)
+![day00](../day00/._media/sample.gif)
