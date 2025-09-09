@@ -1,4 +1,5 @@
 # Day 00 - Template
+
 ## Concepts Practised
 - point 1
 - point 2
